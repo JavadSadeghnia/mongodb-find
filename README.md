@@ -8,6 +8,6 @@
 
 4- in package.json change the "test": "echo \"Error: no test specified\" && exit 1" ===>>> to : "devStart": "nodemon script.js"
 
-5- npm node devStart
+5- npm run devStart
 
 Go to : script.js and "CREATE/UPDATE/FIND/DELETE" your data
