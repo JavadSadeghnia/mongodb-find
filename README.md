@@ -6,7 +6,7 @@
 
 3- npm i --save-dev nodemon
 
-4- in package.json change the "test": "echo \"Error: no test specified\" && exit 1" to :devStart": "nodemon script.js"
+4- in package.json change the "test": "echo \"Error: no test specified\" && exit 1" ===>>> to : "devStart": "nodemon script.js"
 
 5- npm node devStart
 
